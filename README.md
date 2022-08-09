@@ -1,2 +1,3 @@
 # CRL
-Conquering Responsive Layouts course by Kewin Powell. 
+### Conquering Responsive Layouts course by Kewin Powell. 
+#### Course excercises.
