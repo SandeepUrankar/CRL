@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+.parent{
+    background-color: deepskyblue;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.child{
+    background-color: cornflowerblue;
+    height: 300px;
+    
+}
