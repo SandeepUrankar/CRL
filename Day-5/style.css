@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+.container-outer{
+    width: 100vw;
+    background-color: #23424A;
+    padding: 50px;
+}
+.container{
+    width: 50%;
+    margin: 0 auto ;
+    color: white;
+    text-overflow: visible;
+    max-width: 650px;
+}
+
+.heading{
+    font-family: Roboto;
+    font-size: 3rem;
+    /* font-size: 48px; */
+    font-weight: bold;
+}
+
+.sub-text{
+    font-size: 1.3rem;
+    /* font-size: 21px; */
+    max-width: 650px;
+    font-family: 'Roboto';
+    text-align: justify;
+}
+
+.button{
+    background-color: #38CFD9;
+    width: fit-content;
+    font-size: 1.3rem;
+    /* font-size: 21px; */
+    font-family: Roboto;
+    font-weight: bold;
+    padding: 1rem;
+    color: #23424A;
+    border-radius: 30px ;
+    text-transform: uppercase;
+}
